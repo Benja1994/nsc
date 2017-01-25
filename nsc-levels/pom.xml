@@ -10,14 +10,7 @@
         <version>0.1-SNAPSHOT</version>
     </parent>
 
-    <artifactId>nsc-website</artifactId>
+    <artifactId>nsc-levels</artifactId>
 
-    <dependencies>
-        <dependency>
-            <groupId>de.dhbw</groupId>
-            <artifactId>nsc-levels</artifactId>
-            <version>${parent.version}</version>
-        </dependency>
-    </dependencies>
 
 </project>

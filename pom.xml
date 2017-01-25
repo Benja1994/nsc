@@ -7,15 +7,12 @@
     <groupId>de.dhbw</groupId>
     <artifactId>nsc</artifactId>
     <packaging>pom</packaging>
-    <version>${project.version}</version>
-
-    <properties>
-        <project.version>0.1-SNAPSHOT</project.version>
-    </properties>
+    <version>0.1-SNAPSHOT</version>
 
     <modules>
         <module>nsc-server</module>
         <module>nsc-website</module>
+        <module>nsc-levels</module>
     </modules>
 
 </project>

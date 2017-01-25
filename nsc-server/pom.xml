@@ -12,4 +12,17 @@
 
     <artifactId>nsc-server</artifactId>
 
+    <dependencies>
+        <dependency>
+            <groupId>de.dhbw</groupId>
+            <artifactId>nsc-website</artifactId>
+            <version>${parent.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>de.dhbw</groupId>
+            <artifactId>nsc-levels</artifactId>
+            <version>${parent.version}</version>
+        </dependency>
+    </dependencies>
+
 </project>
